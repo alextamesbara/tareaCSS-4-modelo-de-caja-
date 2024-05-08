@@ -61,9 +61,10 @@ section {
 
 Deportes{
     background-color: rgb(36, 78, 8);
-    height: 15px;
+    height: 10px;
     width: 550px;
     margin: auto;
+    padding: 10px;
     
 
 }
