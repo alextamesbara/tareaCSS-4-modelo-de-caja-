@@ -1,0 +1,88 @@
+html {
+
+    background-color: white;
+}
+
+body {
+
+    background-color: rgb(231, 164, 167);
+
+    width: 800px;
+    height: 600px;
+    padding: 20px;
+    margin: 0 auto;
+
+
+}
+
+header {
+
+
+    background-color: lightblue;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 50px;
+    width: 600px;
+    padding: 10px auto;
+    margin: 10px auto;
+}
+
+nav {
+
+    background-color: lightgreen;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 160px;
+    padding: 10px auto;
+    margin: 10px auto;
+    width: 600px;
+}
+
+main {
+
+    background-color: rgb(245, 245, 158);
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 300px;
+    width: 600px;
+    padding: 10px;
+    margin: 10px auto;
+
+}
+
+section {
+    background-color: rgb(255, 255, 255);
+    height: 60px;
+    width: 570px;
+    padding: 0px;
+    margin: auto;
+    border: 2px solid black;
+}
+
+Deportes{
+    background-color: rgb(36, 78, 8);
+    height: 15px;
+    width: 550px;
+    margin: auto;
+    
+
+}
+
+aside {
+    background-color: lightpink;
+    height: 200px;
+    width: 200px;
+    padding: 10px;
+    margin: 10px;
+}
+
+footer {
+
+    background-color: lightseagreen;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    height: 50PX;
+    padding: 10px auto;
+    margin: 10px auto;
+    width: 600px;
+}
