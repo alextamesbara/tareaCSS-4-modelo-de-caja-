@@ -1,7 +1,9 @@
 html {
 
     background-color: white;
+    
 }
+
 
 body {
 
@@ -9,7 +11,7 @@ body {
 
     width: 800px;
     height: 600px;
-    padding: 20px;
+    padding: 5px;
     margin: 0 auto;
 
 
@@ -24,7 +26,7 @@ header {
     height: 50px;
     width: 600px;
     padding: 10px auto;
-    margin: 10px auto;
+   margin: auto;
 }
 
 nav {
@@ -47,23 +49,36 @@ main {
     width: 600px;
     padding: 10px;
     margin: 10px auto;
-
+    
 }
 
-section {
+section{
     background-color: rgb(255, 255, 255);
     height: 60px;
     width: 570px;
-    padding: 0px;
-    margin: auto;
-    border: 2px solid black;
+    padding: px;
+    margin: 5px 5px;
+    border: 1px solid black;
+
+
 }
 
-Deportes{
+.Deportes{
     background-color: rgb(36, 78, 8);
-    height: 10px;
-    width: 550px;
-    margin: auto;
+    height: 4px;
+    width: 540px;
+    margin: 5px auto;
+    padding: 10px;
+    
+
+}
+
+.Entretenimiento{
+
+    background-color: orange;
+    height: 4px;
+    width: 540px;
+    margin:5px auto;
     padding: 10px;
     
 
@@ -84,6 +99,6 @@ footer {
     color: black;
     height: 50PX;
     padding: 10px auto;
-    margin: 10px auto;
+    margin: 5px auto;
     width: 600px;
 }
